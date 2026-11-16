@@ -82,3 +82,23 @@ B.Tech – Artificial Intelligence and Data Science Student
 
 - GitHub: https://github.com/mrunali971
 - LinkedIn: https://www.linkedin.com/in/mrunali16
+
+
+---
+
+## 📸 Dashboard Screenshots
+
+### 1. Dashboard Overview
+![Dashboard Overview](screenshots/dashboard-overview.png)
+
+### 2. Monthly Sales Analysis
+![Monthly Sales](screenshots/monthly-sales.png)
+
+### 3. Category and Regional Analysis
+![Category and Regional Analysis](screenshots/category-regional-analysis.png)
+
+### 4. Product Performance
+![Product Performance](screenshots/product-performance.png)
+
+### 5. Business Insights
+![Business Insights](screenshots/business-insights-sql.png)
